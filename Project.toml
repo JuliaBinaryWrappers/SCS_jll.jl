@@ -1,6 +1,6 @@
 name = "SCS_jll"
 uuid = "f4f2fc5b-1d94-523c-97ea-2ab488bedf4b"
-version = "2.1.1+0"
+version = "2.1.2+0"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
