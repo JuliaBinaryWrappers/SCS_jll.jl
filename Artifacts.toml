@@ -1,143 +1,143 @@
 [[SCS]]
 arch = "aarch64"
-git-tree-sha1 = "394305fd09acd9c9bd01d221fb4bd89fbab888e8"
+git-tree-sha1 = "3675df4459b2bc795a0711a3205123739782455d"
 os = "macos"
 
     [[SCS.download]]
-    sha256 = "9ec3f84350afb604fba01801368711b8bd3795e4556a16ea8b7eee87e3677ada"
-    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.1+0/SCS.v3.2.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "fa0ec37d9d6cc53ff1e5e6a7862bb0e745e31b0dbec82a8b91cda416daef47ba"
+    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.3+0/SCS.v3.2.3.aarch64-apple-darwin.tar.gz"
 [[SCS]]
 arch = "aarch64"
-git-tree-sha1 = "ace5f6efe803ce88493e54fe77cf645d5dd4ccc0"
+git-tree-sha1 = "5d084f03752f50debfb703b86b72b83b8d4239ee"
 libc = "glibc"
 os = "linux"
 
     [[SCS.download]]
-    sha256 = "531cc1c341855957636f6ea3f7f9c5718adce7f6c74d3972d57502b05cdec6a4"
-    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.1+0/SCS.v3.2.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "e96c5981086689481a816288db9ed5dfcd8a17ebed314da9cb0f6101154f726c"
+    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.3+0/SCS.v3.2.3.aarch64-linux-gnu.tar.gz"
 [[SCS]]
 arch = "aarch64"
-git-tree-sha1 = "d7e0f995b4c8d11c8922e0470b1e5be51a26ddad"
+git-tree-sha1 = "f06e9eef38dbf65355b5fe7f948b7836d7e54681"
 libc = "musl"
 os = "linux"
 
     [[SCS.download]]
-    sha256 = "8b51aa6fa96b26b296e0ad3ff0f99552947c4cf12bb7e2990bce7c7a80f95a25"
-    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.1+0/SCS.v3.2.1.aarch64-linux-musl.tar.gz"
+    sha256 = "597fe65eda7a73a0c99d8fe381a7e168529faeec42b5df198030d9c021e597fc"
+    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.3+0/SCS.v3.2.3.aarch64-linux-musl.tar.gz"
 [[SCS]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "eda757387231b00d79f2633d48a106c240ee4f23"
+git-tree-sha1 = "46246991f326fb10e05d0fb09e2e3ebd26afb9da"
 libc = "glibc"
 os = "linux"
 
     [[SCS.download]]
-    sha256 = "6a33013b10b0f2ca62daff661ee0fc702ab677c14edebe8d61cc7626ab0119a7"
-    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.1+0/SCS.v3.2.1.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "459dd72aea87be4113c6bf8ed53c897425750b68faf4d9db930fe08813468786"
+    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.3+0/SCS.v3.2.3.armv6l-linux-gnueabihf.tar.gz"
 [[SCS]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "3d54d038f2b34609fcd0780bab7b344f670fe4f4"
+git-tree-sha1 = "08aa1d03c943bb49d915310404b6dcee2f91fe67"
 libc = "musl"
 os = "linux"
 
     [[SCS.download]]
-    sha256 = "d5a7ba0efb7adb230d334d8d3b4142c8137815745bae57e9237197584b04870a"
-    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.1+0/SCS.v3.2.1.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "d2d8f739a7ee2a080c233b0c062fa6f0982ff13750b2a1119d13a97948074c39"
+    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.3+0/SCS.v3.2.3.armv6l-linux-musleabihf.tar.gz"
 [[SCS]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "8a5b8b8077c7196e7d5a687322755078dacf7abe"
+git-tree-sha1 = "1ac484b9527bb4cd541c8574d3f60549d9f80dd2"
 libc = "glibc"
 os = "linux"
 
     [[SCS.download]]
-    sha256 = "908cc3a557ff231e5672b481ea73e0f83190bd2946c8356de605db764def3fa6"
-    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.1+0/SCS.v3.2.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "d498b89692fe9d9be3b20f34a222baca8e16928480a63cfa8de5e9a72266254e"
+    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.3+0/SCS.v3.2.3.armv7l-linux-gnueabihf.tar.gz"
 [[SCS]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "3e8cf3329ac5c08a7a1cf518d6c0458101ea26b0"
+git-tree-sha1 = "f709d61340e78a0eff62b0faa65d74de5baf7a23"
 libc = "musl"
 os = "linux"
 
     [[SCS.download]]
-    sha256 = "55445e79c01b3471cb646bcd6a926a984b400ab8fc905c37be4c8fdcce9d1784"
-    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.1+0/SCS.v3.2.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "e3a329ef7f9b56170fcc1abd31c3215072b30ecc13829548dd377559c54505f5"
+    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.3+0/SCS.v3.2.3.armv7l-linux-musleabihf.tar.gz"
 [[SCS]]
 arch = "i686"
-git-tree-sha1 = "d2eeb1eca852735df23c71949d5f5158955f6ef8"
+git-tree-sha1 = "48613ee49b876991645eadc1cc843d1fbd1f062d"
 libc = "glibc"
 os = "linux"
 
     [[SCS.download]]
-    sha256 = "d670fd16edd93b280a435c5bf587528078562489d664497bcfdf76bccb097fc1"
-    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.1+0/SCS.v3.2.1.i686-linux-gnu.tar.gz"
+    sha256 = "e905c71b362bec1915ef69606eba6c0d285d31a619512d6b061911244064b246"
+    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.3+0/SCS.v3.2.3.i686-linux-gnu.tar.gz"
 [[SCS]]
 arch = "i686"
-git-tree-sha1 = "3e2b28599bf92d570223e26d9d7a8f62c264d7fa"
+git-tree-sha1 = "a5fe256d113c3578ee40fb429141cb5185d209b0"
 libc = "musl"
 os = "linux"
 
     [[SCS.download]]
-    sha256 = "ecfae8f2be253395b0457ad46476fc5fe3e1847f4b886287a1838295a3c341ff"
-    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.1+0/SCS.v3.2.1.i686-linux-musl.tar.gz"
+    sha256 = "d16437ebfa316d55c5b03415d29e94e8ffc8356c304d13ff7055d8c8776ede72"
+    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.3+0/SCS.v3.2.3.i686-linux-musl.tar.gz"
 [[SCS]]
 arch = "i686"
-git-tree-sha1 = "a13ef96ec71c67fc0f5728f22c77b4ddc8ac54b5"
+git-tree-sha1 = "2aacdc1aa48a308054e98018e29054476391afd6"
 os = "windows"
 
     [[SCS.download]]
-    sha256 = "2835fe444f9777c224a8536c56072a1da39e12626b173ed6f1620f5189ac358d"
-    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.1+0/SCS.v3.2.1.i686-w64-mingw32.tar.gz"
+    sha256 = "0583466c017572c90c84d27f048712b2d634bd089574e75bdcf37685c41af7b5"
+    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.3+0/SCS.v3.2.3.i686-w64-mingw32.tar.gz"
 [[SCS]]
 arch = "powerpc64le"
-git-tree-sha1 = "7c0f24a42dd5bd34196d8e0a18f92f541e426286"
+git-tree-sha1 = "9051024f6ac4a50660741f8af675a73f33f13c94"
 libc = "glibc"
 os = "linux"
 
     [[SCS.download]]
-    sha256 = "d99cff405de63c8f8192a17845b1702282c5dfd97999a31c868dc7e55bc3d323"
-    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.1+0/SCS.v3.2.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "b7fef8c03393ed77b8fc104307bc1197c588f9d8bb7765a6ac5433666ac3ce6d"
+    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.3+0/SCS.v3.2.3.powerpc64le-linux-gnu.tar.gz"
 [[SCS]]
 arch = "x86_64"
-git-tree-sha1 = "cddcd10d3caafe47c912f1c9ac95cfe78e5b70b8"
+git-tree-sha1 = "1f127c856f8dc29d51140d1549401371547a5e2c"
 os = "macos"
 
     [[SCS.download]]
-    sha256 = "58ab7a4f76a7e3e16e0cfd399f927f346322d9cc91c847b6d8919804c7b72c81"
-    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.1+0/SCS.v3.2.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "813f087273ae6d295f47894b61581642b7feec094b72462a9ea7a3c78d0c933b"
+    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.3+0/SCS.v3.2.3.x86_64-apple-darwin.tar.gz"
 [[SCS]]
 arch = "x86_64"
-git-tree-sha1 = "2f93573781fa28aa00a2636c7d67ddff69795bbc"
+git-tree-sha1 = "a639b7dd06220d5eee750262671d8d0bfb9ff039"
 libc = "glibc"
 os = "linux"
 
     [[SCS.download]]
-    sha256 = "121603caa61a4cae1a720c7a9d24063d597db44c1246f169cc4e6810f62570d0"
-    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.1+0/SCS.v3.2.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "5996c119279eccd320de2392b08f76a8c236cbd64c7250af3e6283047d22496c"
+    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.3+0/SCS.v3.2.3.x86_64-linux-gnu.tar.gz"
 [[SCS]]
 arch = "x86_64"
-git-tree-sha1 = "e280aff1d175af2e41a82854998c309a3131d931"
+git-tree-sha1 = "fb0fe62825ad9c3c902b9a68b78900d37d0a1894"
 libc = "musl"
 os = "linux"
 
     [[SCS.download]]
-    sha256 = "07780ec4f4113f2d073db24c263b855d23a08e9eaaff24c9cf0cf6f14d797c2b"
-    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.1+0/SCS.v3.2.1.x86_64-linux-musl.tar.gz"
+    sha256 = "be0289a3de9ca55d290c2a8c064294091a07cad7c7d2ac7063dcd7de6e9e58f1"
+    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.3+0/SCS.v3.2.3.x86_64-linux-musl.tar.gz"
 [[SCS]]
 arch = "x86_64"
-git-tree-sha1 = "5011da007c1e85fc163a3334b82525874e3dee2a"
+git-tree-sha1 = "3a8573bd00947d8cc5daacca8698512438e0497e"
 os = "freebsd"
 
     [[SCS.download]]
-    sha256 = "f54a2bd25f2713b47d2c943cca52b328aa8edc4965d7f7aa1bb356b9db7f631c"
-    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.1+0/SCS.v3.2.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "03aba17e7ae372bf802867c283db228a381c659c80edec809fa87385c56df1fd"
+    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.3+0/SCS.v3.2.3.x86_64-unknown-freebsd.tar.gz"
 [[SCS]]
 arch = "x86_64"
-git-tree-sha1 = "ee180b6466a76cfdbfc590b311051e22395c472e"
+git-tree-sha1 = "2d09c3e58fe52a71ce1ddf13b55630463dfa4687"
 os = "windows"
 
     [[SCS.download]]
-    sha256 = "dbaf1a1959edee09c7c9ade4dd8ce58a6f080a03f0af9c18e0f65f71b419ef59"
-    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.1+0/SCS.v3.2.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "90296d3af615044acc572f8268eccc6a4002a0dbdb6688d890b1ea2910dbe067"
+    url = "https://github.com/JuliaBinaryWrappers/SCS_jll.jl/releases/download/SCS-v3.2.3+0/SCS.v3.2.3.x86_64-w64-mingw32.tar.gz"
