@@ -1,6 +1,6 @@
 name = "SCS_jll"
 uuid = "f4f2fc5b-1d94-523c-97ea-2ab488bedf4b"
-version = "3.2.6+0"
+version = "3.2.7+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -13,5 +13,5 @@ LLVMOpenMP_jll = "1d63c593-3942-5779-bab2-d838dc0a180e"
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.6"
-Libdl = "1"
-Artifacts = "1"
+Libdl = "< 0.0.1, 1"
+Artifacts = "< 0.0.1, 1"
